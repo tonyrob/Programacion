@@ -1,4 +1,4 @@
-                         //SEGUNDA VERSION
+                         //TERCERA VERSION
 
 #include<iostream>
 #include<stdio.h>
@@ -20,4 +20,6 @@ cout<< "La suma de los numeros ingresados es: "<< sum <<endl;
 cout<< "Hasta Luego..." <<endl;
        getche ();
      }       
+
+                     //FIN TERCERA VERSION
 }
