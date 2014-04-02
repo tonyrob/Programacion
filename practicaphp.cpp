@@ -1,4 +1,4 @@
-                         //TERCERA VERSION
+                         //CUARTA VERSION
 
 #include<iostream>
 #include<stdio.h>
@@ -21,5 +21,5 @@ cout<< "Hasta Luego..." <<endl;
        getche ();
      }       
 
-                     //FIN TERCERA VERSION
+                     //FIN CUARTA VERSION
 }
