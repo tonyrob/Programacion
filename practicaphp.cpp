@@ -1,4 +1,4 @@
-                         //PRIMERA VERSION
+                         //SEGUNDA VERSION
 
 #include<iostream>
 #include<stdio.h>
